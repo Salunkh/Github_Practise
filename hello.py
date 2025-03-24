@@ -1,6 +1,7 @@
 print("Hello, World!")
 print("Hello, Muttal")
 
+
 def fibonacci(n):
     # Initialize the first two numbers in the Fibonacci series
     fib_series = [0, 1]
@@ -15,7 +16,7 @@ def fibonacci(n):
 # Example: Get the first 10 numbers in the Fibonacci series
 n = 10
 fib_sequence = fibonacci(n)
-
+print("hello mmutal anup")
 # Print the Fibonacci series
 print(f"The first {n} numbers in the Fibonacci series are:")
 print(fib_sequence)
